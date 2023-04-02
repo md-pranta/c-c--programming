@@ -2,6 +2,6 @@
 int main()
 {
     double a=22.123456789123456;
-    printf("%0.15lf",a);
+    printf("%0.15lf\n",a);
     return 0;
 }
